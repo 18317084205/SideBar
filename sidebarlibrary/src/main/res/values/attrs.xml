@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SideBar">
+        <attr name="sideBarTextColor" format="color" />
+        <attr name="sideBarTextSelectedColor" format="color" />
+        <attr name="sideBarTextBackground" format="color" />
+        <attr name="sideBarTextSelectedBackground" format="color" />
+        <attr name="sideBarTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
